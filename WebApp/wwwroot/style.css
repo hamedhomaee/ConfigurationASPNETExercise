@@ -1,0 +1,16 @@
+body {
+    background-color: #dfdfdf;
+}
+
+.container {
+    width: 40%;
+    margin: 3em auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container a {
+    padding: 1rem 2rem;
+    border: 3px solid #517adb;
+}
